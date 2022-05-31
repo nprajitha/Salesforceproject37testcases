@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="44" passed="33" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-15T18:00:25 EDT" name="Suite" finished-at="2022-05-15T18:09:53 EDT" duration-ms="568366">
+    <groups>
+    </groups>
+    <test started-at="2022-05-15T18:00:25 EDT" name="Test" finished-at="2022-05-15T18:09:53 EDT" duration-ms="568366">
+      <class name="com.automation.test.UsermenuDroppdown">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:01:49 EDT" name="setup" finished-at="2022-05-15T18:01:56 EDT" duration-ms="7157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.addphoto() throws java.awt.AWTException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addphoto()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:01:56 EDT" name="addphoto" finished-at="2022-05-15T18:02:25 EDT" duration-ms="29470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addphoto -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:25 EDT" name="closeDriver" finished-at="2022-05-15T18:02:26 EDT" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:26 EDT" name="setup" finished-at="2022-05-15T18:02:34 EDT" duration-ms="7976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.testcase5() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase5()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:34 EDT" name="testcase5" finished-at="2022-05-15T18:02:36 EDT" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:36 EDT" name="closeDriver" finished-at="2022-05-15T18:02:36 EDT" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:36 EDT" name="setup" finished-at="2022-05-15T18:02:46 EDT" duration-ms="9602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.testcase6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase6()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:02:46 EDT" name="testcase6" finished-at="2022-05-15T18:03:04 EDT" duration-ms="18608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:04 EDT" name="closeDriver" finished-at="2022-05-15T18:03:08 EDT" duration-ms="4154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:08 EDT" name="setup" finished-at="2022-05-15T18:03:16 EDT" duration-ms="7653" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.testcase7()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase7()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:16 EDT" name="testcase7" finished-at="2022-05-15T18:03:27 EDT" duration-ms="10850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:27 EDT" name="closeDriver" finished-at="2022-05-15T18:03:27 EDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:27 EDT" name="setup" finished-at="2022-05-15T18:03:34 EDT" duration-ms="6907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.testcase8()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase8()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:34 EDT" name="testcase8" finished-at="2022-05-15T18:03:39 EDT" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:39 EDT" name="closeDriver" finished-at="2022-05-15T18:03:39 EDT" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:39 EDT" name="setup" finished-at="2022-05-15T18:03:45 EDT" duration-ms="6138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.UsermenuDroppdown.testcase9()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase9()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:45 EDT" name="testcase9" finished-at="2022-05-15T18:03:48 EDT" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.UsermenuDroppdown@564fabc8]" started-at="2022-05-15T18:03:48 EDT" name="closeDriver" finished-at="2022-05-15T18:03:52 EDT" duration-ms="4202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.test.UsermenuDroppdown -->
+      <class name="com.automation.test.CreateAccount">
+        <test-method is-config="true" signature="firstTestsetup()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:25 EDT" name="firstTestsetup" finished-at="2022-05-15T18:00:25 EDT" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestsetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:25 EDT" name="setup" finished-at="2022-05-15T18:00:34 EDT" duration-ms="8938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateAccount.tastcase14() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tastcase14()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:34 EDT" name="tastcase14" finished-at="2022-05-15T18:00:48 EDT" duration-ms="14384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tastcase14 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:48 EDT" name="closeDriver" finished-at="2022-05-15T18:00:49 EDT" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:49 EDT" name="setup" finished-at="2022-05-15T18:00:56 EDT" duration-ms="7721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateAccount.testcase10() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase10()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:00:56 EDT" name="testcase10" finished-at="2022-05-15T18:01:04 EDT" duration-ms="7233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:04 EDT" name="closeDriver" finished-at="2022-05-15T18:01:04 EDT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:04 EDT" name="setup" finished-at="2022-05-15T18:01:11 EDT" duration-ms="7235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateAccount.testcase11() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase11()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:11 EDT" name="testcase11" finished-at="2022-05-15T18:01:18 EDT" duration-ms="7391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase11 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:18 EDT" name="closeDriver" finished-at="2022-05-15T18:01:19 EDT" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:19 EDT" name="setup" finished-at="2022-05-15T18:01:25 EDT" duration-ms="6642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateAccount.testcase12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase12()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:25 EDT" name="testcase12" finished-at="2022-05-15T18:01:34 EDT" duration-ms="8420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase12 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:34 EDT" name="closeDriver" finished-at="2022-05-15T18:01:34 EDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:34 EDT" name="setup" finished-at="2022-05-15T18:01:42 EDT" duration-ms="7691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateAccount.testcase13() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase13()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:42 EDT" name="testcase13" finished-at="2022-05-15T18:01:49 EDT" duration-ms="7197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase13 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:01:49 EDT" name="closeDriver" finished-at="2022-05-15T18:01:49 EDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="finaltestdown()[pri:0, instance:com.automation.test.CreateAccount@399f45b1]" started-at="2022-05-15T18:09:53 EDT" name="finaltestdown" finished-at="2022-05-15T18:09:53 EDT" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finaltestdown -->
+      </class> <!-- com.automation.test.CreateAccount -->
+      <class name="com.automation.test.RandomScenarios">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:18 EDT" name="setup" finished-at="2022-05-15T18:08:28 EDT" duration-ms="9848" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.RandomScenarios.testcase33()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase33()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:28 EDT" name="testcase33" finished-at="2022-05-15T18:08:33 EDT" duration-ms="4751" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [User: rajitha ss ~ Salesforce - Developer Edition] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [User: rajitha ss ~ Salesforce - Developer Edition] but found []
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.automation.test.RandomScenarios.testcase33(RandomScenarios.java:32)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:32)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:467)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase33 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:33 EDT" name="closeDriver" finished-at="2022-05-15T18:08:37 EDT" duration-ms="4147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:37 EDT" name="setup" finished-at="2022-05-15T18:08:43 EDT" duration-ms="6094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.RandomScenarios.testcase34()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase34()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:43 EDT" name="testcase34" finished-at="2022-05-15T18:08:51 EDT" duration-ms="7984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase34 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:51 EDT" name="closeDriver" finished-at="2022-05-15T18:08:51 EDT" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:51 EDT" name="setup" finished-at="2022-05-15T18:08:59 EDT" duration-ms="7729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.RandomScenarios.testcase35() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase35()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:08:59 EDT" name="testcase35" finished-at="2022-05-15T18:09:10 EDT" duration-ms="10510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase35 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:10 EDT" name="closeDriver" finished-at="2022-05-15T18:09:14 EDT" duration-ms="4122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:14 EDT" name="setup" finished-at="2022-05-15T18:09:20 EDT" duration-ms="6546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.RandomScenarios.testcase36() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase36()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:20 EDT" name="testcase36" finished-at="2022-05-15T18:09:33 EDT" duration-ms="13003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase36 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:33 EDT" name="closeDriver" finished-at="2022-05-15T18:09:34 EDT" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:34 EDT" name="setup" finished-at="2022-05-15T18:09:40 EDT" duration-ms="6550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.RandomScenarios.testcase37() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase37()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:40 EDT" name="testcase37" finished-at="2022-05-15T18:09:53 EDT" duration-ms="12487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase37 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.RandomScenarios@36902638]" started-at="2022-05-15T18:09:53 EDT" name="closeDriver" finished-at="2022-05-15T18:09:53 EDT" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.test.RandomScenarios -->
+      <class name="com.automation.test.CreateOpty">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:03:52 EDT" name="setup" finished-at="2022-05-15T18:03:58 EDT" duration-ms="5907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateOpty.testcase15() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase15()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:03:58 EDT" name="testcase15" finished-at="2022-05-15T18:04:03 EDT" duration-ms="5089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase15 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:03 EDT" name="closeDriver" finished-at="2022-05-15T18:04:04 EDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:04 EDT" name="setup" finished-at="2022-05-15T18:04:11 EDT" duration-ms="7101" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateOpty.testcase16() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase16()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:11 EDT" name="testcase16" finished-at="2022-05-15T18:04:17 EDT" duration-ms="5990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase16 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:17 EDT" name="closeDriver" finished-at="2022-05-15T18:04:17 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:17 EDT" name="setup" finished-at="2022-05-15T18:04:24 EDT" duration-ms="7631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateOpty.testcase18() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase18()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:24 EDT" name="testcase18" finished-at="2022-05-15T18:04:29 EDT" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase18 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:29 EDT" name="closeDriver" finished-at="2022-05-15T18:04:33 EDT" duration-ms="4143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:33 EDT" name="setup" finished-at="2022-05-15T18:04:41 EDT" duration-ms="8036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateOpty.testcase19() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase19()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:41 EDT" name="testcase19" finished-at="2022-05-15T18:04:47 EDT" duration-ms="5662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase19 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:47 EDT" name="closeDriver" finished-at="2022-05-15T18:04:47 EDT" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:47 EDT" name="setup" finished-at="2022-05-15T18:04:55 EDT" duration-ms="7805" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.CreateOpty.testcases17() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcases17()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:55 EDT" name="testcases17" finished-at="2022-05-15T18:04:59 EDT" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases17 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.CreateOpty@16d04d3d]" started-at="2022-05-15T18:04:59 EDT" name="closeDriver" finished-at="2022-05-15T18:04:59 EDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.test.CreateOpty -->
+      <class name="com.automation.test.ContactsTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:04:59 EDT" name="setup" finished-at="2022-05-15T18:05:06 EDT" duration-ms="6393" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase25() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase25()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:06 EDT" name="testcase25" finished-at="2022-05-15T18:05:14 EDT" duration-ms="7868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase25 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:14 EDT" name="closeDriver" finished-at="2022-05-15T18:05:14 EDT" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:14 EDT" name="setup" finished-at="2022-05-15T18:05:21 EDT" duration-ms="7284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase26() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase26()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:21 EDT" name="testcase26" finished-at="2022-05-15T18:05:27 EDT" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase26 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:27 EDT" name="closeDriver" finished-at="2022-05-15T18:05:31 EDT" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:31 EDT" name="setup" finished-at="2022-05-15T18:05:38 EDT" duration-ms="7757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase27() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase27()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:38 EDT" name="testcase27" finished-at="2022-05-15T18:05:43 EDT" duration-ms="4442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase27 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:43 EDT" name="closeDriver" finished-at="2022-05-15T18:05:43 EDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:43 EDT" name="setup" finished-at="2022-05-15T18:05:51 EDT" duration-ms="7861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase28() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase28()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:51 EDT" name="testcase28" finished-at="2022-05-15T18:05:55 EDT" duration-ms="4438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase28 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:05:55 EDT" name="closeDriver" finished-at="2022-05-15T18:06:00 EDT" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:00 EDT" name="setup" finished-at="2022-05-15T18:06:09 EDT" duration-ms="9361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase29() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase29()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:09 EDT" name="testcase29" finished-at="2022-05-15T18:06:14 EDT" duration-ms="4770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase29 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:14 EDT" name="closeDriver" finished-at="2022-05-15T18:06:18 EDT" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:18 EDT" name="setup" finished-at="2022-05-15T18:06:28 EDT" duration-ms="10343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase30() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase30()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:28 EDT" name="testcase30" finished-at="2022-05-15T18:06:31 EDT" duration-ms="3166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase30 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:31 EDT" name="closeDriver" finished-at="2022-05-15T18:06:32 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:32 EDT" name="setup" finished-at="2022-05-15T18:06:38 EDT" duration-ms="6539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase31() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase31()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:38 EDT" name="testcase31" finished-at="2022-05-15T18:06:45 EDT" duration-ms="6998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase31 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:45 EDT" name="closeDriver" finished-at="2022-05-15T18:06:45 EDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:45 EDT" name="setup" finished-at="2022-05-15T18:06:53 EDT" duration-ms="7326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.ContactsTest.testcase32() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase32()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:53 EDT" name="testcase32" finished-at="2022-05-15T18:06:59 EDT" duration-ms="6776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase32 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.ContactsTest@49ec71f8]" started-at="2022-05-15T18:06:59 EDT" name="closeDriver" finished-at="2022-05-15T18:06:59 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.test.ContactsTest -->
+      <class name="com.automation.test.Leadtest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:06:59 EDT" name="setup" finished-at="2022-05-15T18:07:09 EDT" duration-ms="9338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.Leadtest.testcase20() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase20()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:09 EDT" name="testcase20" finished-at="2022-05-15T18:07:11 EDT" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase20 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:11 EDT" name="closeDriver" finished-at="2022-05-15T18:07:15 EDT" duration-ms="4187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:15 EDT" name="setup" finished-at="2022-05-15T18:07:21 EDT" duration-ms="5966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.Leadtest.testcase21() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase21()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:21 EDT" name="testcase21" finished-at="2022-05-15T18:07:26 EDT" duration-ms="4576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase21 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:26 EDT" name="closeDriver" finished-at="2022-05-15T18:07:30 EDT" duration-ms="4157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:30 EDT" name="setup" finished-at="2022-05-15T18:07:40 EDT" duration-ms="10073" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.Leadtest.testcase22() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase22()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:40 EDT" name="testcase22" finished-at="2022-05-15T18:07:48 EDT" duration-ms="7980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase22 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:48 EDT" name="closeDriver" finished-at="2022-05-15T18:07:49 EDT" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:49 EDT" name="setup" finished-at="2022-05-15T18:07:55 EDT" duration-ms="6530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.Leadtest.testcase23() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase23()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:07:55 EDT" name="testcase23" finished-at="2022-05-15T18:08:00 EDT" duration-ms="5256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase23 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:08:00 EDT" name="closeDriver" finished-at="2022-05-15T18:08:04 EDT" duration-ms="4162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:08:04 EDT" name="setup" finished-at="2022-05-15T18:08:14 EDT" duration-ms="9217" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.automation.test.Leadtest.testcase24()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase24()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:08:14 EDT" name="testcase24" finished-at="2022-05-15T18:08:18 EDT" duration-ms="4304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase24 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automation.test.Leadtest@1d2adfbe]" started-at="2022-05-15T18:08:18 EDT" name="closeDriver" finished-at="2022-05-15T18:08:18 EDT" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.test.Leadtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

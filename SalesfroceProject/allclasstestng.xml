@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <test  name="chromeTest" thread-count="5">
+   <parameter name="browser"  value="chrome"/>
+    <classes>
+     
+      <class name="com.automation.test.CreateAccount"/>
+      <class name="com.automation.test.UsermenuDroppdown"/>
+      <class name="com.automation.test.CreateOpty"/>
+      <class name="com.automation.test.ContactsTest"/>
+      <class name="com.automation.test.Leadtest"/>
+       <class name="com.automation.test.RandomScenarios"/>
+    </classes>
+  </test>
+  
+  <test  name="firefoxtest" thread-count="5">
+   <parameter name="browser"  value="firefox"/>
+    <classes>
+     
+      <class name="com.automation.test.CreateAccount"/>
+      <class name="com.automation.test.UsermenuDroppdown"/>
+      <class name="com.automation.test.CreateOpty"/>
+      <class name="com.automation.test.ContactsTest"/>
+      <class name="com.automation.test.Leadtest"/>
+       <class name="com.automation.test.RandomScenarios"/>
+    </classes>
+  </test>
+  
+  
+  
+   <!-- Test -->
+</suite> <!-- Suite -->

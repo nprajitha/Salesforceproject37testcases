@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CrossBrowser"  thread-count="3" parallel="tests">
+	<test name="ChromeBrowser" allow-return-values="true">
+	    <parameter name="browser"  value="chrome">
+		<classes>
+			<class name="com.automation.test.Leadtest" />
+		</classes>
+	    </parameter>
+	</test>
+	<test name="FirefoxBrowser" allow-return-values="true">
+	    <parameter name="browser"  value="firefox">
+		<classes>
+			<class name="com.automation.test.Leadtest" />
+		</classes>
+	    </parameter>
+	</test>
+	<test name="edgeBrowser" allow-return-values="true">
+	    <parameter name="browser"  value="edge">
+		<classes>
+			<class name="com.automation.test.Leadtest" />
+		</classes>
+	    </parameter>
+	</test>
+	</suite>
